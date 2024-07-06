@@ -1,1 +1,1 @@
-# youtube_clone_using_react
+# video player named VIDEOPALACE using react
