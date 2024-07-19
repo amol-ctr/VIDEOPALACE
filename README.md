@@ -1,1 +1,1 @@
-##Vercel Link:-(https://videopalace-k29j.vercel.app/)
+##Vercel Link:-(https://videopalace.vercel.app/)
